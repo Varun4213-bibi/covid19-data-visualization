@@ -17,6 +17,10 @@ This project focuses on analyzing and visualizing COVID-19 data using Python lib
 - Pandas
 - Matplotlib
 
+##data set
+dataset used in this project from https://covid-19.nyc3.digitaloceanspaces.com/public/owid-covid-data.csv
+
+
 ## Steps Done
 
 - Downloaded COVID-19 dataset.
