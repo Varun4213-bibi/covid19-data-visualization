@@ -1,5 +1,4 @@
-# covid19-data-visualization
-A project analyzing covid-10 deaths using pandas and matplotlib
+
 # COVID-19 Data Visualization Project
 
 This project focuses on analyzing and visualizing COVID-19 data using Python libraries such as Pandas and Matplotlib.
